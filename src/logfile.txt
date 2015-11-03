@@ -1,0 +1,104 @@
+Blender: about to update input1
+TBConcat: about to update input1
+LRConcat: about to update input1
+Shrinker: about to update input1
+TBConcat: about to update input1
+LRConcat: about to update input1
+Shrinker: about to update input1
+PNMreader: about executing
+PNMreader: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRConcat: done updating input1
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: about to update input2
+Shrinker: about to update input1
+PNMreader: about executing
+PNMreader: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRConcat: done to update input2
+LRConcat: about to execute
+LRConcat: done executing
+TBConcat: done updating input1
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: about to update input2
+LRConcat: about to update input1
+Shrinker: about to update input1
+PNMreader: about executing
+PNMreader: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRConcat: done updating input1
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: about to update input2
+Shrinker: about to update input1
+PNMreader: about executing
+PNMreader: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRConcat: done to update input2
+LRConcat: about to execute
+LRConcat: done executing
+TBConcat: done to update input2
+TBConcat: about to execute
+TBConcat: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRConcat: done updating input1
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: about to update input2
+Shrinker: about to update input1
+PNMreader: about executing
+PNMreader: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRConcat: done to update input2
+LRConcat: about to execute
+LRConcat: done executing
+TBConcat: done updating input1
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: about to update input2
+LRConcat: about to update input1
+Shrinker: about to update input1
+PNMreader: about executing
+PNMreader: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRConcat: done updating input1
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: about to update input2
+Shrinker: about to update input1
+PNMreader: about executing
+PNMreader: done executing
+Shrinker: done updating input1
+Shrinker: about to execute
+Shrinker: done executing
+LRConcat: done to update input2
+LRConcat: about to execute
+LRConcat: done executing
+TBConcat: done to update input2
+TBConcat: about to execute
+TBConcat: done executing
+Blender: done updating input1
+Blender: about to execute
+Blender: done executing
+Blender: about to update input2
+PNMreader: about executing
+PNMreader: done executing
+Blender: done to update input2
+Blender: about to execute
+Blender: done executing
